@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## You can setup the project using npm or yarn
+## You can setup the project using npm 
 
 if you used npm then
 
