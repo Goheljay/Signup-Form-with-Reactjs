@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## You can setup the project using npm or yarn
+
+if you used npm then
+
+- first clone the repo in your local system
+- second step `npm install`
+- thired step ` npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
